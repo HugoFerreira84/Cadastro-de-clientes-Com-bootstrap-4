@@ -4,15 +4,13 @@
 }
 body{
 	background: url("../IMAGENS/fundo2.jpg");
-	background-position: 50% 90%;
+	background-position: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
 	color: white;
 	font-family: arial;
-	background-repeat: no-repeat;
 }
 
-#form-cad input{
-	border: none;
-}
 
 /*
 input{
